@@ -44,6 +44,7 @@ Redes: Son las que permiten la comunicación entre contenedores.
 - ```docker run -it ubuntu ``` (lo corre y entro al shell de ubuntu)
 * -i: interactivo
 * -t: abre la consola
+![image](https://user-images.githubusercontent.com/72711545/167315999-a7044d23-32c5-49a6-a107-217a7d54964a.png)
 - ```cat /etc/lsb-release``` (veo la versión de Linux)
 - ``` exit ```
 
